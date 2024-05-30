@@ -1,0 +1,5 @@
+Hello World!
+
+This is just a folder is a culmination of random projects/ideas relating to html/css that popped in my head.
+
+Have fun exploring!
